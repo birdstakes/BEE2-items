@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "7335"
-	"mapversion" "19"
+	"editorbuild" "9672"
+	"mapversion" "21"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -56,7 +56,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "19"
+	"mapversion" "21"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -75,7 +75,7 @@ world
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -86,7 +86,7 @@ world
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -97,7 +97,7 @@ world
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "270"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -108,7 +108,7 @@ world
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -119,7 +119,7 @@ world
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -130,7 +130,7 @@ world
 			"vaxis" "[0 0 1 0] 0.25"
 			"rotation" "270"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		editor
 		{
@@ -229,7 +229,7 @@ world
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -240,7 +240,7 @@ world
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -251,7 +251,7 @@ world
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "270"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -262,7 +262,7 @@ world
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -273,7 +273,7 @@ world
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -284,7 +284,7 @@ world
 			"vaxis" "[0 0 1 0] 0.25"
 			"rotation" "270"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		editor
 		{
@@ -383,7 +383,7 @@ world
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -394,7 +394,7 @@ world
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -405,7 +405,7 @@ world
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "270"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -416,7 +416,7 @@ world
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -427,7 +427,7 @@ world
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		side
 		{
@@ -438,7 +438,7 @@ world
 			"vaxis" "[0 0 1 0] 0.25"
 			"rotation" "270"
 			"lightmapscale" "16"
-			"smoothing_groups" "0"
+			"smoothing_groups" "2"
 		}
 		editor
 		{
